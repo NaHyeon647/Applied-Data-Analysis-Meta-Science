@@ -1,4 +1,4 @@
-# ADAMS Assignment 1
+# ADAMS Assignment
 
 ## About this class
 
