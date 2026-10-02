@@ -1,0 +1,4 @@
+metric,estimate,studies
+Type I error,0.0466,5000
+Type II error,0.050000000000000044,5000
+Power,0.95,5000
